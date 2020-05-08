@@ -1,0 +1,13 @@
+E:\Study\NetCore\Messaging\Send\bin\Debug\netcoreapp3.1\Send.exe
+E:\Study\NetCore\Messaging\Send\bin\Debug\netcoreapp3.1\Send.deps.json
+E:\Study\NetCore\Messaging\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.json
+E:\Study\NetCore\Messaging\Send\bin\Debug\netcoreapp3.1\Send.runtimeconfig.dev.json
+E:\Study\NetCore\Messaging\Send\bin\Debug\netcoreapp3.1\Send.dll
+E:\Study\NetCore\Messaging\Send\bin\Debug\netcoreapp3.1\Send.pdb
+E:\Study\NetCore\Messaging\Send\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+E:\Study\NetCore\Messaging\Send\obj\Debug\netcoreapp3.1\Send.csprojAssemblyReference.cache
+E:\Study\NetCore\Messaging\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfoInputs.cache
+E:\Study\NetCore\Messaging\Send\obj\Debug\netcoreapp3.1\Send.AssemblyInfo.cs
+E:\Study\NetCore\Messaging\Send\obj\Debug\netcoreapp3.1\Send.csproj.CopyComplete
+E:\Study\NetCore\Messaging\Send\obj\Debug\netcoreapp3.1\Send.dll
+E:\Study\NetCore\Messaging\Send\obj\Debug\netcoreapp3.1\Send.pdb
